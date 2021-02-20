@@ -1,0 +1,4 @@
+ID	Name	gender	Mark
+1	Zhangs	FM	93	
+2	LiSi	M	85
+3	WangWu	M	90
